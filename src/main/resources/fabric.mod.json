@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "denememod",
+	"version": "${version}",
+	"name": "DenemeMod",
+	"description": "No Kurds Allowed",
+	"authors": [
+		"Lycoris!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/denememod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.lycoris.denememod.DenemeMod"
+		],
+		"fabric-datagen": [
+			"net.lycoris.denememod.DenemeModDataGenerator"
+		],
+        "client": [
+            "net.lycoris.denememod.DenemeModClient"
+      ]
+	},
+	"mixins": [
+		"denememod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.3",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
