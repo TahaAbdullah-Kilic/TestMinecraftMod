@@ -17,8 +17,13 @@ public class ModItemGroups {
             .entries((displayContext, entries) ->
             {
                 entries.add(ModItems.BLACK_QUARTZ);
-                entries.add(ModItems.ZENITH);
+
                 entries.add(ModBlocks.BLACK_QUARTZ_BLOCK);
+                entries.add(ModBlocks.BLACK_QUARTZ_ORE);
+                entries.add(ModBlocks.BLACK_QUARTZ_DEEPSLATE_ORE);
+
+                entries.add(ModItems.ZENITH);
+                entries.add(ModItems.CHISEL);
 
             }).build());
 

@@ -1,9 +1,12 @@
 {
   "item.denememod.zenith": "Zenit",
+  "item.denememod.chisel": "Keski",
 
   "item.denememod.black_quartz": "Siyah Kuvars",
 
   "block.denememod.black_quartz_block": "Siyah Kuvars Bloğu",
+  "block.denememod.black_quartz_ore": "Siyah Kuvars Cevheri",
+  "block.denememod.black_quartz_deepslate_ore": "Siyah Kuvars Katman Cevheri",
 
   "itemgroup.denememod.lycoris_items": "Lycoris Modunun Eşyaları"
 }

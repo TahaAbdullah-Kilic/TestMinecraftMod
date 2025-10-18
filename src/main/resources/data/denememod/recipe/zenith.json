@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#":
+    [
+      {
+        "item": "denememod:black_quartz"
+      }
+    ],
+    "a":
+    [
+      {
+        "item": "minecraft:stick"
+      }
+    ]
+  },
+  "pattern": [
+    "#",
+    "#",
+    "a"
+  ],
+  "result": {
+    "count": 1,
+    "id": "denememod:zenith"
+  }
+}

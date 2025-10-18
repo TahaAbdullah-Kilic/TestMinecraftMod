@@ -1,9 +1,12 @@
 {
   "item.denememod.zenith": "Zenith",
+  "item.denememod.chisel": "Chisel",
 
   "item.denememod.black_quartz": "Black Quartz",
 
   "block.denememod.black_quartz_block": "Black Quartz Block",
+  "block.denememod.black_quartz_ore": "Black Quartz Ore",
+  "block.denememod.black_quartz_deepslate_ore": "Black Quartz Deepslate Ore",
 
   "itemgroup.denememod.lycoris_items": "Lycoris Mod Items"
 }
