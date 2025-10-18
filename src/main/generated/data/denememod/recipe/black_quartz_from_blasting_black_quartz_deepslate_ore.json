@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.5,
+  "group": "black_quartz",
+  "ingredient": {
+    "item": "denememod:black_quartz_deepslate_ore"
+  },
+  "result": {
+    "id": "denememod:black_quartz"
+  }
+}

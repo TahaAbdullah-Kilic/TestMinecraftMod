@@ -21,6 +21,17 @@ public class ModItemGroups {
                 entries.add(ModBlocks.BLACK_QUARTZ_BLOCK);
                 entries.add(ModBlocks.BLACK_QUARTZ_ORE);
                 entries.add(ModBlocks.BLACK_QUARTZ_DEEPSLATE_ORE);
+
+                entries.add(ModBlocks.BLACK_QUARTZ_STAIRS);
+                entries.add(ModBlocks.BLACK_QUARTZ_BUTTON);
+                entries.add(ModBlocks.BLACK_QUARTZ_FENCE);
+                entries.add(ModBlocks.BLACK_QUARTZ_FENCE_GATE);
+                entries.add(ModBlocks.BLACK_QUARTZ_DOOR);
+                entries.add(ModBlocks.BLACK_QUARTZ_PRESSURE_PLATE);
+                entries.add(ModBlocks.BLACK_QUARTZ_SLAB);
+                entries.add(ModBlocks.BLACK_QUARTZ_TRAPDOOR);
+                entries.add(ModBlocks.BLACK_QUARTZ_WALL);
+
                 entries.add(ModBlocks.MAGIC_BLOCK);
 
                 entries.add(ModItems.ZENITH);

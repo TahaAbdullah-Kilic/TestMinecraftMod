@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "denememod:block/black_quartz_slab"
+    },
+    "type=double": {
+      "model": "denememod:block/black_quartz_block"
+    },
+    "type=top": {
+      "model": "denememod:block/black_quartz_slab_top"
+    }
+  }
+}

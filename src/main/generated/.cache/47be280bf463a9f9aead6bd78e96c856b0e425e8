@@ -1,0 +1,7 @@
+// 1.21	2025-10-18T22:20:50.5426701	DenemeMod/Tags for minecraft:block
+e554611cd988638f25d4c3db4594b8474c189103 data\minecraft\tags\block\fence_gates.json
+91fdd0e03868f99b1016be81ed7acc5049dff341 data\minecraft\tags\block\needs_iron_tool.json
+1f56c545af924425e2127fcc7cb1ccebd2c22f19 data\minecraft\tags\block\fences.json
+f5ff4c3397f1b05fedf0fe942c2d58ca62dc82b1 data\minecraft\tags\block\walls.json
+c23d54eb1247e3e3bc22753ac2e1383f22a2329a data\minecraft\tags\block\needs_diamond_tool.json
+220bf96179a9683a0fdbc605b1f7f9f975954143 data\minecraft\tags\block\mineable\pickaxe.json

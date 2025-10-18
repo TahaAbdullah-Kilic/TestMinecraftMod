@@ -23,6 +23,6 @@ public class DenemeMod implements ModInitializer {
         ModItems.registerModItem();
         ModBlocks.registerModBlock();
 
-        FuelRegistry.INSTANCE.add(ModItems.SOLAR_FLARE,100000);
+        FuelRegistry.INSTANCE.add(ModItems.SOLAR_FLARE,50000);
 	}
 }

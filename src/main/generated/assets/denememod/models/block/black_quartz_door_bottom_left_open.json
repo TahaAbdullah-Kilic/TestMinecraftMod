@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_left_open",
+  "textures": {
+    "bottom": "denememod:block/black_quartz_door_bottom",
+    "top": "denememod:block/black_quartz_door_top"
+  }
+}

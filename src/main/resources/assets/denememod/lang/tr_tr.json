@@ -9,6 +9,17 @@
   "block.denememod.black_quartz_block": "Siyah Kuvars Bloğu",
   "block.denememod.black_quartz_ore": "Siyah Kuvars Cevheri",
   "block.denememod.black_quartz_deepslate_ore": "Kayrak Taşında Siyah Kuvars Cevheri",
+
+  "block.denememod.black_quartz_stairs": "Siyah Kuvars Merdiveni",
+  "block.denememod.black_quartz_slab": "Siyah Kuvars Basamağı",
+  "block.denememod.black_quartz_door": "Siyah Kuvars Kapısı",
+  "block.denememod.black_quartz_trapdoor": "Siyah Kuvars Tuzak Kapısı",
+  "block.denememod.black_quartz_pressure_plate": "Siyah Kuvars Basınç Plakası",
+  "block.denememod.black_quartz_button": "Siyah Kuvars Düğmesi",
+  "block.denememod.black_quartz_fence": "Siyah Kuvars Çiti",
+  "block.denememod.black_quartz_fence_gate": "Siyah Kuvars Çit Kapısı",
+  "block.denememod.black_quartz_wall": "Siyah Kuvars Duvarı",
+
   "block.denememod.magic_block": "Büyülü Blok",
 
   "item.denememod.cauliflower": "Kabak",

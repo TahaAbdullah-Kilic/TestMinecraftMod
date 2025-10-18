@@ -9,6 +9,18 @@
   "block.denememod.black_quartz_block": "Black Quartz Block",
   "block.denememod.black_quartz_ore": "Black Quartz Ore",
   "block.denememod.black_quartz_deepslate_ore": "Black Quartz Deepslate Ore",
+
+  "block.denememod.black_quartz_stairs": "Black Quartz Stairs",
+  "block.denememod.black_quartz_slab": "Black Quartz Slab",
+  "block.denememod.black_quartz_door": "Black Quartz Door",
+  "block.denememod.black_quartz_trapdoor": "Black Quartz Trapdoor",
+  "block.denememod.black_quartz_pressure_plate": "Black Quartz Pressure Plate",
+  "block.denememod.black_quartz_button": "Black Quartz Button",
+  "block.denememod.black_quartz_fence": "Black Quartz Fence",
+  "block.denememod.black_quartz_fence_gate": "Black Quartz Fence Gate",
+  "block.denememod.black_quartz_wall": "Black Quartz Wall",
+
+
   "block.denememod.magic_block": "Magic Block",
 
   "item.denememod.cauliflower": "Cauliflower",
