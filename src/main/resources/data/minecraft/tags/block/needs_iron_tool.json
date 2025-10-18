@@ -2,6 +2,7 @@
   "replace": false,
   "values":
   [
-    "denememod:black_quartz_block"
+    "denememod:black_quartz_block",
+    "denememod:magic_block"
   ]
 }

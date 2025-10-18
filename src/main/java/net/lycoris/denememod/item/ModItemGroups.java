@@ -21,9 +21,14 @@ public class ModItemGroups {
                 entries.add(ModBlocks.BLACK_QUARTZ_BLOCK);
                 entries.add(ModBlocks.BLACK_QUARTZ_ORE);
                 entries.add(ModBlocks.BLACK_QUARTZ_DEEPSLATE_ORE);
+                entries.add(ModBlocks.MAGIC_BLOCK);
 
                 entries.add(ModItems.ZENITH);
                 entries.add(ModItems.CHISEL);
+
+                entries.add(ModItems.CAULIFLOWER);
+
+                entries.add(ModItems.SOLAR_FLARE);
 
             }).build());
 

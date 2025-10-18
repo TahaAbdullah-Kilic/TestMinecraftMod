@@ -1,4 +1,6 @@
 {
+  "itemgroup.denememod.lycoris_items": "Lycoris Modunun Eşyaları",
+
   "item.denememod.zenith": "Zenit",
   "item.denememod.chisel": "Keski",
 
@@ -6,7 +8,15 @@
 
   "block.denememod.black_quartz_block": "Siyah Kuvars Bloğu",
   "block.denememod.black_quartz_ore": "Siyah Kuvars Cevheri",
-  "block.denememod.black_quartz_deepslate_ore": "Siyah Kuvars Katman Cevheri",
+  "block.denememod.black_quartz_deepslate_ore": "Kayrak Taşında Siyah Kuvars Cevheri",
+  "block.denememod.magic_block": "Büyülü Blok",
 
-  "itemgroup.denememod.lycoris_items": "Lycoris Modunun Eşyaları"
+  "item.denememod.cauliflower": "Kabak",
+
+  "item.denememod.solar_flare": "Güneşin Öfkesi",
+
+  "tooltip.denememod.magic_block.tooltip.shift_down": "§5Siyah Kuvars§r cevherlerini dönüştürmek için kullanılabilir",
+  "tooltip.denememod.magic_block.tooltip": "Daha fazla bilgi için §9Shifte§r basın",
+  "tooltip.denememod.chisel.tooltip.shift_down": "§5Siyah Kuvars§r bloklarını dönüştürmek için kullanılabilir",
+  "tooltip.denememod.chisel.tooltip": "Daha fazla bilgi için §9Shifte§r basın"
 }

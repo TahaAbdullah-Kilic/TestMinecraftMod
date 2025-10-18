@@ -1,4 +1,6 @@
 {
+  "itemgroup.denememod.lycoris_items": "Lycoris Mod Items",
+
   "item.denememod.zenith": "Zenith",
   "item.denememod.chisel": "Chisel",
 
@@ -7,6 +9,14 @@
   "block.denememod.black_quartz_block": "Black Quartz Block",
   "block.denememod.black_quartz_ore": "Black Quartz Ore",
   "block.denememod.black_quartz_deepslate_ore": "Black Quartz Deepslate Ore",
+  "block.denememod.magic_block": "Magic Block",
 
-  "itemgroup.denememod.lycoris_items": "Lycoris Mod Items"
+  "item.denememod.cauliflower": "Cauliflower",
+
+  "item.denememod.solar_flare": "Solar Flare",
+
+  "tooltip.denememod.magic_block.tooltip.shift_down": "Can be used to transform §5black quartz§r ores",
+  "tooltip.denememod.magic_block.tooltip": "Press §9Shift§r for more information",
+  "tooltip.denememod.chisel.tooltip.shift_down": "Can be used to transform §5black quartz§r blocks",
+  "tooltip.denememod.chisel.tooltip": "Press §9Shift§r for more information"
 }

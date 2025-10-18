@@ -2,6 +2,7 @@ package net.lycoris.denememod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.lycoris.denememod.block.ModBlocks;
 import net.lycoris.denememod.item.ModItemGroups;
 import net.lycoris.denememod.item.ModItems;
@@ -21,5 +22,7 @@ public class DenemeMod implements ModInitializer {
 
         ModItems.registerModItem();
         ModBlocks.registerModBlock();
+
+        FuelRegistry.INSTANCE.add(ModItems.SOLAR_FLARE,100000);
 	}
 }

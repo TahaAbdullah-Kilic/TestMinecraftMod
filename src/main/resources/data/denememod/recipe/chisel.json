@@ -17,7 +17,7 @@
   },
   "pattern": [
     " #",
-    "a"
+    "a "
   ],
   "result": {
     "count": 1,

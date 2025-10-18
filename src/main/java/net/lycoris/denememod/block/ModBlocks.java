@@ -2,6 +2,7 @@ package net.lycoris.denememod.block;
 
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.lycoris.denememod.DenemeMod;
+import net.lycoris.denememod.block.custom.MagicBlock;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
 import net.minecraft.block.ExperienceDroppingBlock;
@@ -22,6 +23,8 @@ public class ModBlocks {
             new ExperienceDroppingBlock(UniformIntProvider.create(2,5), AbstractBlock.Settings.create().strength(4f).requiresTool()));
     public static final Block BLACK_QUARTZ_DEEPSLATE_ORE = registerBlock("black_quartz_deepslate_ore",
             new ExperienceDroppingBlock(UniformIntProvider.create(2,5), AbstractBlock.Settings.create().strength(5f).requiresTool()));
+    public static final Block MAGIC_BLOCK = registerBlock("magic_block",
+            new MagicBlock(AbstractBlock.Settings.create().strength(4f).requiresTool()));
 
     static Block registerBlock(String name,Block block)
     {

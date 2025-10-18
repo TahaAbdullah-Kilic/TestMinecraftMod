@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key":
+  {
+    "#":
+    {
+      "item": "denememod:black_quartz_block"
+    }
+  },
+  "pattern":
+  [
+    "###",
+    "###",
+    "###"
+  ],
+  "result":
+  {
+    "count": 1,
+    "id": "denememod:magic_block"
+  }
+}
